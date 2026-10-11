@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/4aa87687-74ba-40ef-a257-b53009db70bd
 # Calc Reviewer
 
 구조계산서를 국가건설기준(KDS, KCS)과 대조해 검토하는 윈도우 프로그램입니다.
