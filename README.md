@@ -4,7 +4,7 @@
 엑셀이나 PDF 계산서를 넣고 검토를 시작하면, KCSC 최신 설계기준 및 참고 자료와 검토 지식을 활용하여
 검토 보고서를 생성합니다.
 
-현재 버전은 **2.1.1**로 설치 파일은 [릴리스 페이지](https://github.com/easternwise98/calc-reviewer/releases/latest)에서 받습니다.
+현재 버전은 **2.1.2**로 설치 파일은 [릴리스 페이지](https://github.com/easternwise98/calc-reviewer/releases/latest)에서 받습니다.
 
 
 https://github.com/user-attachments/assets/52bab375-9a4e-4b30-b318-14f83826a324
